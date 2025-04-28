@@ -7,4 +7,5 @@ for i in range(number_of_people):
     friends.append(friend_name)
 print(random.choice(friends))
 
+
 # "Alice", "Bob", "Charlie", "David", "Emanuel"
